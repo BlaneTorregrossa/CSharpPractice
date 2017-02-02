@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPractice", "CSharpPractice\CSharpPractice.csproj", "{820C2F80-1384-402F-9799-E463EA989D5F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormPracticeNonAssignment", "WinFormPracticeNonAssignment\WinFormPracticeNonAssignment.csproj", "{6098E2E6-24A3-44A5-8F71-10CAEB523AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{CAF2C408-D9AC-4502-B555-CF3D2DA50ABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjaVZombie", "NinjaVZombie\NinjaVZombie.csproj", "{5C37EBC5-DC86-428E-AFF4-419703084201}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{6098E2E6-24A3-44A5-8F71-10CAEB523AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6098E2E6-24A3-44A5-8F71-10CAEB523AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6098E2E6-24A3-44A5-8F71-10CAEB523AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF2C408-D9AC-4502-B555-CF3D2DA50ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF2C408-D9AC-4502-B555-CF3D2DA50ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF2C408-D9AC-4502-B555-CF3D2DA50ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF2C408-D9AC-4502-B555-CF3D2DA50ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C37EBC5-DC86-428E-AFF4-419703084201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C37EBC5-DC86-428E-AFF4-419703084201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C37EBC5-DC86-428E-AFF4-419703084201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C37EBC5-DC86-428E-AFF4-419703084201}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
