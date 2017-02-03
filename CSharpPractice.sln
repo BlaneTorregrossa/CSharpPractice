@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjaVZombie", "NinjaVZombi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacePractice", "InterfacePractice\InterfacePractice.csproj", "{BEFF7F39-B4CE-4B22-BAD1-B83F597F5E7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombatWinForms", "CombatWinForms\CombatWinForms.csproj", "{B0FC9DB1-818E-4513-80C9-17ABB6BF268D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BEFF7F39-B4CE-4B22-BAD1-B83F597F5E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEFF7F39-B4CE-4B22-BAD1-B83F597F5E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEFF7F39-B4CE-4B22-BAD1-B83F597F5E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FC9DB1-818E-4513-80C9-17ABB6BF268D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FC9DB1-818E-4513-80C9-17ABB6BF268D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FC9DB1-818E-4513-80C9-17ABB6BF268D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FC9DB1-818E-4513-80C9-17ABB6BF268D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

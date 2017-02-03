@@ -6,37 +6,37 @@ using System.Threading.Tasks;
 
 namespace InterfacePractice
 {
-    class YellowLight : ITestInterface
-    {
+    //class YellowLight : ITestInterface
+    //{
 
-        //public void Update()
-        //{
+    //    ////public void Update()
+    //    ////{
 
-        //}
+    //    ////}
 
-        public void ToRed()
-        {
-            // This leads to the next state.
-            // Should be used when timer reaches 3.
-        }
+    //    //public void ToRed()
+    //    //{
+    //    //    // This leads to the next state.
+    //    //    // Should be used when timer reaches 3.
+    //    //}
 
-        public void ToYellow()
-        {
-            // Should not be used.
-            // Have it displayed if this is used.
-        }
+    //    //public void ToYellow()
+    //    //{
+    //    //    // Should not be used.
+    //    //    // Have it displayed if this is used.
+    //    //}
 
-        public void ToGreen()
-        {
-            // Should not be used.
-            // Have it displayed if this is used.
-        }
+    //    //public void ToGreen()
+    //    //{
+    //    //    // Should not be used.
+    //    //    // Have it displayed if this is used.
+    //    //}
 
-        public void ToEnd()
-        {
-            // Leads to this state if off button is pushed.
-            // This is not dependent on timer.
-        }
+    //    //public void ToEnd()
+    //    //{
+    //    //    // Leads to this state if off button is pushed.
+    //    //    // This is not dependent on timer.
+    //    //}
 
-    }
+    //}
 }

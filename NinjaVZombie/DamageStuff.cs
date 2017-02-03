@@ -35,21 +35,19 @@ namespace NinjaVZombie
             IDamagable Tdmg = new DamageStuff();
             IDamager Gdmg = new DamageStuff();
 
-
-            Tdmg.TakeDamage(1);
-            Gdmg.GiveDamage(1);
+            
         }
 
 
         //Suggested by visusal
         public void GiveDamage(int damageGiven)
         {
-            throw new NotImplementedException();
+
         }
 
         public void TakeDamage(int damageTaken)
         {
-            throw new NotImplementedException();
+
         }
     }
 }

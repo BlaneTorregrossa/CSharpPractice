@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace InterfacePractice
 {
-    public partial class Form1 : Form
+    public partial class Form1 : Form, ITestInterface
     {
         public Form1()
         {
@@ -33,5 +33,54 @@ namespace InterfacePractice
         {
 
         }
+
+
+        //public void Update()
+        //{
+
+        //}
+
+        public void ToRed()
+        {
+           
+        }
+
+        public void ToYellow()
+        {
+            
+        }
+
+        public void ToGreen()
+        {
+           
+        }
+
+        public void ToEnd()
+        {
+           
+        }
+
+
+        public int LightChanage()
+        {
+            bool RedOn = false;
+            bool YellowOn = false;
+            bool GreenOn = false;
+
+            if (RedOn == false && YellowOn == false && GreenOn == false)
+            {
+                RedOn = true;
+            }
+
+            
+
+
+
+
+            return 0;
+        }
+
+
+
     }
 }
